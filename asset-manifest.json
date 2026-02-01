@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.b61bd60e.css",
-    "main.js": "/developerFolio/static/js/main.feb1ee6f.js",
+    "main.js": "/developerFolio/static/js/main.d604437f.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
@@ -10,6 +10,7 @@
     "static/media/shojo.png": "/developerFolio/static/media/shojo.bb70ea47b469b02acf9a.png",
     "static/media/thoughts.png": "/developerFolio/static/media/thoughts.39e142b90bdb71526502.png",
     "static/media/ztCO5P.gif": "/developerFolio/static/media/ztCO5P.15daa97015e064091268.gif",
+    "static/media/catagochigameplay.png": "/developerFolio/static/media/catagochigameplay.1687e27f83b71a1b0e1d.png",
     "static/media/kichiku.png": "/developerFolio/static/media/kichiku.1eb5c38e9edf15934bcd.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/pau.jpg": "/developerFolio/static/media/pau.a03c1064fdf3d932d214.jpg",
@@ -29,7 +30,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b61bd60e.css.map": "/developerFolio/static/css/main.b61bd60e.css.map",
-    "main.feb1ee6f.js.map": "/developerFolio/static/js/main.feb1ee6f.js.map",
+    "main.d604437f.js.map": "/developerFolio/static/js/main.d604437f.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -37,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.b61bd60e.css",
-    "static/js/main.feb1ee6f.js"
+    "static/js/main.d604437f.js"
   ]
 }
