@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.c905a6f5.css",
-    "main.js": "/developerFolio/static/js/main.2e66837f.js",
+    "main.js": "/developerFolio/static/js/main.5cd40be7.js",
     "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
-    "static/media/pong.mp4": "/developerFolio/static/media/pong.7bebae24b3f6c37654d4.mp4",
     "static/media/shojo.png": "/developerFolio/static/media/shojo.bb70ea47b469b02acf9a.png",
     "static/media/thoughts.png": "/developerFolio/static/media/thoughts.39e142b90bdb71526502.png",
-    "static/media/ztCO5P.gif": "/developerFolio/static/media/ztCO5P.15daa97015e064091268.gif",
     "static/media/catagochigameplay.png": "/developerFolio/static/media/catagochigameplay.1687e27f83b71a1b0e1d.png",
     "static/media/kichiku.png": "/developerFolio/static/media/kichiku.1eb5c38e9edf15934bcd.png",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/bubble.png": "/developerFolio/static/media/bubble.432801c81541a0951a7d.png",
     "static/media/pau.jpg": "/developerFolio/static/media/pau.a03c1064fdf3d932d214.jpg",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/thornetica.jpg": "/developerFolio/static/media/thornetica.9fe795d9272dc66b752a.jpg",
@@ -24,11 +23,10 @@
     "static/media/airbnbLogo.png": "/developerFolio/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/itch-io.svg": "/developerFolio/static/media/itch-io.377f192db266ee0b245c74b2ec4ae238.svg",
-    "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.c905a6f5.css.map": "/developerFolio/static/css/main.c905a6f5.css.map",
-    "main.2e66837f.js.map": "/developerFolio/static/js/main.2e66837f.js.map",
+    "main.5cd40be7.js.map": "/developerFolio/static/js/main.5cd40be7.js.map",
     "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -36,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.c905a6f5.css",
-    "static/js/main.2e66837f.js"
+    "static/js/main.5cd40be7.js"
   ]
 }
